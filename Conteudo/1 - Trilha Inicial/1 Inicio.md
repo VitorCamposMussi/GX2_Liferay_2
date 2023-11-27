@@ -15,4 +15,6 @@
 
 ## Conteúdo do curso:
 
+<br>
+
 ### Tutoriais
