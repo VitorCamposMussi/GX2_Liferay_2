@@ -2,7 +2,11 @@
 
 <img src="/Conteudo/3 - Trilha Back/Desafio%202/img/home.jpg" alt="" width="700">
 
-##Instruções do desafio
+<br>
+
+<br>
+
+## Instruções do desafio
 
 <details>
 <summary>Instruções</summary>
