@@ -2,7 +2,11 @@
 
 <img src="/Conteudo/3 - Trilha Back/Desafio%202/img/home.jpg" alt="" width="700">
 
-##Instruções do desafio
+<br>
+
+<br>
+
+## Instruções do desafio
 
 <details>
 <summary>Instruções</summary>
@@ -595,4 +599,5 @@ Agora vamos criar as tags para categorizar os eventos e noticias por assunto.
 <br>
 
 [Voltar para Back-End](/Conteudo/3%20-%20Trilha%20Back/3%20Back.md)
+
 [Voltar para inicio](/README.md)
