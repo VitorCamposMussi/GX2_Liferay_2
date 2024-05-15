@@ -16,9 +16,5 @@
 
 ### Conteúdo Rockets:
 
-#### Desafio 1
-[Documento do desafio](/Conteúdo_Rockets/Desafio%2001/Arq/Backend%20_%20Desafios%20Técnicos%20Rocket%20I%20.pdf) <br>
-[Desafio Geral - Solicitação de Reembolso](/Conteúdo_Rockets/Desafio%2001/04/) <br>
-[Desafio 1.1 - Portlet Básico](/Conteúdo_Rockets/Desafio%2001/01/) <br>
-[Desafio 1.2 - Seviços Locais Simples](/Conteúdo_Rockets/Desafio%2001/02/) <br>
-[Desafio 1.3 - Informações de Clima](/Conteúdo_Rockets/Desafio%2001/03/) <br>
+[Desafio 1](/Conteúdo_Rockets/Desafio%2001/Desafio1.md) <br>
+
