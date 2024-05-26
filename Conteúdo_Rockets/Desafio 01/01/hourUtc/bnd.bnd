@@ -1,0 +1,4 @@
+Bundle-Name: hourUtc
+Bundle-SymbolicName: gx2.com
+Bundle-Version: 1.0.0
+Export-Package: gx2.com.constants

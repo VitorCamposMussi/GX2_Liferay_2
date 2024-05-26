@@ -1,0 +1,10 @@
+Bundle-Name: tasks-api
+Bundle-SymbolicName: tasks.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	tasks.exception,\
+	tasks.model,\
+	tasks.service,\
+	tasks.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../tasks-service/service.xml

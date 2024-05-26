@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="tasks.model.Task">
+		<field name="taskId" type="long" />
+		<field name="title" type="String" />
+		<field name="description" type="String" />
+		<field name="completed" type="boolean" />
+		<field name="createDate" type="Date" />
+	</model>
+</model-hints>

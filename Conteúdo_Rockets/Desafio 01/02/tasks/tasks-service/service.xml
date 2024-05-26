@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 7.4.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_7_4_0.dtd">
+
+<service-builder dependency-injector="ds" package-path="tasks">
+	<namespace>tasks</namespace>
+	<entity name="Task" local-service="true" remote-service="false">
+		<column name="taskId" type="long" primary="true" />
+		<column name="title" type="String" />
+		<column name="description" type="String" />
+		<column name="completed" type="boolean" />
+		<column name="createDate" type="Date" />
+	</entity>
+</service-builder>

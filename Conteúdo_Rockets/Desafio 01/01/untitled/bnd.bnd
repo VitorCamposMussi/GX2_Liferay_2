@@ -1,0 +1,4 @@
+Bundle-Name: untitled
+Bundle-SymbolicName: gx2.com.br
+Bundle-Version: 1.0.0
+Export-Package: gx2.com.br.constants
