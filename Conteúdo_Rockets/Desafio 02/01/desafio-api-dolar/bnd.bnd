@@ -1,4 +1,0 @@
-Bundle-Name: desafio-api-dolar
-Bundle-SymbolicName: br.com.gx2.rest.application
-Bundle-Version: 1.0.0
-Liferay-Configuration-Path: /configuration

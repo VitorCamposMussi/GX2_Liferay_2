@@ -1,4 +1,0 @@
-Bundle-Name: desafio-portlet-dolar
-Bundle-SymbolicName: br.com.gx2.portlet.application
-Bundle-Version: 1.0.0
-Export-Package: br.com.gx2.constants

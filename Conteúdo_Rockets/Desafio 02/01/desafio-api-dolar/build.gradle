@@ -1,7 +1,0 @@
-dependencies {
-	compileOnly group: "com.liferay.portal", name: "release.portal.api"
-	compileOnly group: "org.osgi", name: "org.osgi.service.jaxrs"
-
-	// Adicionado a biblioteca JSON
-	compileOnly group: "org.json", name: "json", version: "20210307"
-}
