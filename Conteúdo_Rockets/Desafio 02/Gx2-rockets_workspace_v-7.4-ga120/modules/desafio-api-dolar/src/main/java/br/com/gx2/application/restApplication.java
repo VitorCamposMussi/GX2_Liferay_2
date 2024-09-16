@@ -22,8 +22,8 @@ import org.osgi.service.jaxrs.whiteboard.JaxrsWhiteboardConstants;
 @Component(
 		immediate = true,
 		property = {
-				JaxrsWhiteboardConstants.JAX_RS_APPLICATION_BASE + "=/greetings",
-				JaxrsWhiteboardConstants.JAX_RS_NAME + "=Greetings.Rest"
+				JaxrsWhiteboardConstants.JAX_RS_APPLICATION_BASE + "=/dollar-api",
+				JaxrsWhiteboardConstants.JAX_RS_NAME + "=Dollar-api.Rest"
 		},
 		service = Application.class
 )
