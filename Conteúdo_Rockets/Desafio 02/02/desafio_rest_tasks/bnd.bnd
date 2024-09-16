@@ -1,0 +1,4 @@
+Bundle-Name: desafio_rest_tasks
+Bundle-SymbolicName: br.com.gx2
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration

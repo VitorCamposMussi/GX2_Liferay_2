@@ -1,0 +1,10 @@
+Bundle-Name: desafio_tasks-api
+Bundle-SymbolicName: br.com.gx2.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	br.com.gx2.exception,\
+	br.com.gx2.model,\
+	br.com.gx2.service,\
+	br.com.gx2.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../desafio_tasks-service/service.xml

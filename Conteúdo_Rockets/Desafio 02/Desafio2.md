@@ -1,4 +1,4 @@
-# Desafio 1 Rockets GX2
+# Desafio 2 Rockets GX2
 
 ### Requisitos:
 
