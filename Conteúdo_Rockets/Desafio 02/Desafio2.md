@@ -11,18 +11,13 @@
 
 ### Instruções gerais:
 
-- O desafio será aberto ao final da Live do dia 16/04/2024 e a entrega
-será no dia 17/05/2024, até 23h59. Durante esse período, dúvidas
-pontuais podem ser tiradas via Chat da Google.
+- O desafio será aberto ao final da call do dia 20/08/2024 e a entrega será no dia 16/09/2024, até 23h59. Durante esse período, dúvidas pontuais podem ser tiradas via Chat da Google no grupo com os padrinhos.
 
-- O desafio consiste em 1) realizar os exercícios, registrar no Github e
-enviar o link para avaliação; 2) Apresentar o que foi feito para o
-Comitê de Padrinhos (Data a Marcar).
+- O desafio consiste em 1) realizar os exercícios, registrar no Github e enviar o link para avaliação; 2) Apresentar o que foi feito para o Comitê de Padrinhos (Data a Marcar).
 
 - A apresentação deve abranger todos os tópicos requeridos.
 
-- Importante: O cumprimento do prazo (17/05/2024) faz parte da
-avaliação (prazo e qualidade da entrega).
+- Importante: O cumprimento do prazo (16/09/2024) faz parte da avaliação e eventuais intercorrências devem ser avisadas com antecedência.
 
 
 ### Instruções do Desafio:
