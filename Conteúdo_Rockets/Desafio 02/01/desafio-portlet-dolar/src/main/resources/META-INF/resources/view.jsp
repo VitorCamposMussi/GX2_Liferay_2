@@ -121,7 +121,7 @@
         <div class="dollar-rate">
             <%
                 // Pegando o valor da cotação passada pelo portlet como atributo da request
-                String dollarRate = (String) request.getAttribute("dollarRate");
+                Double dollarRate = (Double) request.getAttribute("dollarRate");
 
                 if (dollarRate == null) {
             %>
