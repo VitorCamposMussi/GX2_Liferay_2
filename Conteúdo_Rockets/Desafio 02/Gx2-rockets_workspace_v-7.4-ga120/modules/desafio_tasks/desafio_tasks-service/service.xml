@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 7.4.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_7_4_0.dtd">
+
+<service-builder dependency-injector="ds" package-path="br.com.gx2">
+	<namespace>DESAFIO</namespace>
+
+	<entity local-service="true" name="Task" remote-service="false" uuid="true">
+		<column name="taskId" type="long" primary="true" />
+		<column name="title" type="String" />
+		<column name="description" type="String" />
+		<column name="dueDate" type="Date" />
+		<column name="completed" type="boolean" />
+
+		<!-- Adicionando campos de auditoria -->
+		<column name="createDate" type="Date" />
+		<column name="modifiedDate" type="Date" />
+	</entity>
+</service-builder>

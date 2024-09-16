@@ -1,0 +1,12 @@
+dependencies {
+	api project(":modules:desafio_tasks:desafio_tasks-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+}
+
+buildService {
+	apiDir = "../desafio_tasks-api/src/main/java"
+	testDir = "../desafio_tasks-test/src/testIntegration/java"
+}
+
+group = "br.com.gx2"

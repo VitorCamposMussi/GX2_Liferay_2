@@ -1,0 +1,1 @@
+create index IX_34E68967 on DESAFIO_Task (uuid_[$COLUMN_LENGTH:75$]);
