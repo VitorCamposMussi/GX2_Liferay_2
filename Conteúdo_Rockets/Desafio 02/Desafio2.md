@@ -7,7 +7,7 @@
 <details>
   <summary>Instruções do desafio</summary>
   
-# Desafios Técnicos Rocket I <br>
+# Desafios Técnicos Rocket II <br>
 
 ### Instruções gerais:
 
@@ -22,19 +22,11 @@
 
 ### Instruções do Desafio:
 
-Envie o link do git contendo os tópicos solicitados e apresente em reunião
-tópicos mencionados abaixo, demonstrando o que foi feito, com duração
-máxima de 15 minutos. Certifique-se de demonstrar e explicar os
-conceitos de forma clara e concisa.
+Envie o link do git contendo os tópicos solicitados e apresente em reunião tópicos mencionados abaixo, demonstrando o que foi feito, com duração máxima de 15 minutos. Certifique-se de demonstrar e explicar os conceitos de forma clara e concisa.
 
-A avaliação será baseada na qualidade dos códigos, na clareza da
-explicação, na precisão das informações e na demonstração prática dos
-conceitos. Certifique-se de ter internet, câmera e luz adequadas na hora
-da apresentação.
+A avaliação será baseada na qualidade dos códigos, na clareza da explicação, na precisão das informações e na demonstração prática dos conceitos. Certifique-se de ter internet, câmera e luz adequadas na hora da apresentação.
 
-Esta avaliação testará seu conhecimento prático do Liferay, qualidade de
-código e sua capacidade de comunicar eficazmente os conceitos aos
-outros. 
+Esta avaliação testará seu conhecimento prático do Liferay, qualidade de código e sua capacidade de comunicar eficazmente os conceitos aos outros. Boa sorte! 
 
 <br>
 
