@@ -101,6 +101,6 @@ formatada e segura.
 ### Resolução:
 
 [Documento do desafio](/Conteúdo_Rockets/Desafio%2001/Arq/Backend%20_%20Desafios%20Técnicos%20Rocket%20I%20.pdf) <br>
-[Porjeto completo](/Conteúdo_Rockets/Desafio%2002/Gx2-rockets_workspace_v-7.4-ga120/) <br>
+[Projeto completo](/Conteúdo_Rockets/Desafio%2002/Gx2-rockets_workspace_v-7.4-ga120/) <br>
 [Desafio 2.1 - Integrar o Liferay com uma API de cotação do Dólar](/Conteúdo_Rockets/Desafio%2002/01/) <br>
 [Desafio 2.2 - Desenvolver um CRUD de tarefas pendentes utilizando o Service Builder no Liferay](/Conteúdo_Rockets/Desafio%2002/02/) <br>
