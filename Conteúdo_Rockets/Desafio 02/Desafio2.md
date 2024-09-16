@@ -101,7 +101,5 @@ formatada e segura.
 ### Resolução:
 
 [Documento do desafio](/Conteúdo_Rockets/Desafio%2001/Arq/Backend%20_%20Desafios%20Técnicos%20Rocket%20I%20.pdf) <br>
-[Desafio Geral - Solicitação de Reembolso](/Conteúdo_Rockets/Desafio%2001/04/Desafio%20Geral.md) <br>
-[Desafio 1.1 - Portlet Básico](/Conteúdo_Rockets/Desafio%2001/01/) <br>
-[Desafio 1.2 - Seviços Locais Simples](/Conteúdo_Rockets/Desafio%2001/02/) <br>
-[Desafio 1.3 - Informações de Clima](/Conteúdo_Rockets/Desafio%2001/03/) <br>
+[Desafio 1.1 - Integrar o Liferay com uma API de cotação do Dólar](/Conteúdo_Rockets/Desafio%2002/01/) <br>
+[Desafio 1.2 - Desenvolver um CRUD de tarefas pendentes utilizando o Service Builder no Liferay](/Conteúdo_Rockets/Desafio%2002/02/) <br>
