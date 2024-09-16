@@ -2,7 +2,7 @@
 
 ### Requisitos:
 
-[Documento do desafio](/Conteúdo_Rockets/Desafio%2001/Arq/Backend%20_%20Desafios%20Técnicos%20Rocket%20I%20.pdf)
+[Documento do desafio](/Conteúdo_Rockets/Desafio%2002/Arq/Desafio%20Rockets%20II_%20Intranet.pdf)
 
 <details>
   <summary>Instruções do desafio</summary>
